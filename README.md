@@ -27,10 +27,6 @@ Magic Meet uses a supervisor-led multi-agent workflow:
 6. Generate architecture options and business impact views.
 7. Convert the chosen path into sprint-ready work items.
 
-## Example use case
-
-For a finance scenario, Magic Meet can process a client discussion about AI-powered expense review automation. It can ground itself on internal guardrails, stakeholder requirements, and business metrics, then recommend a compliant architecture and produce a phased rollout plan.
-
 ## Sample knowledge base documents
 
 This project includes sample documents that can be uploaded to a knowledge base:
